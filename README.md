@@ -1,15 +1,10 @@
-# Program Execution Guide
-
-This guide provides instructions for running the program using [online-python.com](https://online-python.com).
-
 ## Steps to Run the Program
 
 1. **Open the Online Compiler:**
    - Go to [online-python.com](https://online-python.com).
 
 2. **Clear the `main.py` File:**
-   - In the left sidebar, locate `main.py`.
-   - Delete all code inside this file so that it is empty.
+   - Delete the code inside the `main.py` file.
 
 3. **Replace Code in `main.py`:**
    - Copy and paste the following code into the `main.py` file on online-python.com:
@@ -98,10 +93,10 @@ This guide provides instructions for running the program using [online-python.co
        main()
     ```
 
-4. **Add a New File for Parameters:**
-   - Click the "+" icon next to `main.py` in the sidebar.
+4. **Add a New File:**
+   - Click the "+" icon next to `main.py` in the navbar.
    - Name the new file **`parameters.txt`**.
-   - Copy the content from the `parameters.txt` file in the zip folder and paste it into the `parameters.txt` file in the IDE.
+   - Copy the content below or from the `parameters.txt` file in the zip folder and paste it into the `parameters.txt` file in the IDE.
 
     ```txt
     This is a sample text file for testing purposes.
