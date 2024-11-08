@@ -99,24 +99,36 @@
    - Copy the content below or from the `parameters.txt` file in the zip folder and paste it into the `parameters.txt` file in the IDE.
 
     ```txt
-    This is a sample text file for testing purposes.
-    It contains multiple lines, characters, words, and different types of content.
+This is a sample text file for testing purposes.
+It contains multiple lines, characters, words, and different types of content.
 
-    Numbers are also included: 12345, 67890, 13579, and some special characters !@#$%^&*().
+Numbers are also included: 12345, 67890, 13579, and some special characters !@#$%^&*().
 
-    Here's a line with punctuation... does it work?
-    The quick brown fox jumps over the lazy dog.
+Here's a line with punctuation... does it work?
 
-    The file should include:
-    - Short words like I, am, he, on.
-    - Longer words such as 'parameter', 'assessment', and 'characterization'.
+The quick brown fox jumps over the lazy dog.
 
-    And a few VERY long words:
-    - pneumonoultramicroscopicsilicovolcanoconiosis (45 letters)
-    - antidisestablishmentarianism (28 letters)
+The file should include:
+- Short words like I, am, he, on.
+- Longer words such as 'parameter', 'assessment', and 'characterization'.
+
+And a few VERY long words:
+- pneumonoultramicroscopicsilicovolcanoconiosis (45 letters)
+	Coined in 1935 by then-president of the National Puzzlers' League, Everett M. Smith.
+- antidisestablishmentarianism (28 letters)
+
+Thank you for giving me this opportunity.
     ```
 
 5. **Run the Program:**
    - Go back to `main.py`.
    - On the bottom left corner of the IDE, press the **Run** button.
    - View the program output in the command line area at the bottom of the screen.
+  
+
+## Common Errors
+
+- **SyntaxError: invalid syntax**
+   - **Cause**: This error occurs if you try to run the program from the `parameters.txt` file instead of `main.py`.
+   - **Solution**: Make sure you are in the `main.py` file when you press the **Run** button.
+
