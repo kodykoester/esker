@@ -118,7 +118,7 @@ And a few VERY long words:
 - antidisestablishmentarianism (28 letters)
 
 Thank you for giving me this opportunity.
-    ```
+```
 
 5. **Run the Program:**
    - Go back to `main.py`.
