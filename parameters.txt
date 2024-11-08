@@ -1,0 +1,19 @@
+This is a sample text file for testing purposes.
+It contains multiple lines, characters, words, and different types of content.
+
+Numbers are also included: 12345, 67890, 13579, and some special characters !@#$%^&*().
+
+Here's a line with punctuation... does it work?
+
+The quick brown fox jumps over the lazy dog.
+
+The file should include:
+- Short words like I, am, he, on.
+- Longer words such as 'parameter', 'assessment', and 'characterization'.
+
+And a few VERY long words:
+- pneumonoultramicroscopicsilicovolcanoconiosis (45 letters)
+	Coined in 1935 by then-president of the National Puzzlers' League, Everett M. Smith.
+- antidisestablishmentarianism (28 letters)
+
+Thank you for giving me this opportunity.
