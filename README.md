@@ -98,7 +98,7 @@
    - Name the new file **`parameters.txt`**.
    - Copy the content below or from the `parameters.txt` file in the zip folder and paste it into the `parameters.txt` file in the IDE.
 
-    ```txt
+        ```txt
 This is a sample text file for testing purposes.
 It contains multiple lines, characters, words, and different types of content.
 
